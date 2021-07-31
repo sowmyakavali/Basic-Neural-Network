@@ -16,4 +16,3 @@ Cifar10 image classification
     Output layer
     
 ## Just Follow the notebook to run and to see its performance  
-    Colab Notebook link https://colab.research.google.com/drive/1OOBDOvlceA-OwkQA24BIAINb6DXpZaXo?usp=sharing
